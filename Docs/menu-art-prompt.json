@@ -1,0 +1,5 @@
+{
+  "tool": "Built-in image_gen",
+  "asset": "Assets/Resources/Menu/shore.png",
+  "prompt": "Use case: stylized-concept. Asset type: finished 16:9 landscape main menu background for the Strands card game. Use the user's FIRST reference image for composition and atmosphere: an immense pale misty mountain basin, black volcanic shore and reflective shallow water, a distant sharp ridge with a thin luminous vertical waterfall or strand down its middle, faint suspended human silhouettes high in the clouded sky and a tiny solitary original courier on a dark ledge at lower left. Original cinematic digital matte painting, fine atmospheric detail, desaturated ivory sky, slate gray mountains, silvery water and restrained dark moss. Keep the left-middle area quiet and dark enough for white menu labels to be overlaid in code, and the luminous distant landmark to the right of center. Wide 16:9 framing. No text, no buttons, no logo, no watermark; do not copy existing characters. The second reference is only for typography, which will be implemented separately in code; do not render any typography into this image."
+}

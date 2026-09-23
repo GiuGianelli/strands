@@ -1,0 +1,45 @@
+{
+  "mode": "Built-in image_gen",
+  "assets": [
+    {
+      "id": "porter-001",
+      "prompt": "Use case: stylized-concept. Asset type: original trading card illustration, landscape 3:2, full bleed, no border or text. Subject: Last Courier, an original solitary weathered courier in a charcoal expedition rain suit carrying compact industrial cargo across volcanic black rock, facing a distant abandoned relay tower. Dark post-apocalyptic science fiction, cinematic realistic digital matte painting, cold cyan mist, fine rain, subtle warm equipment lights, tactile wet fabric and rock. Inspired by the atmosphere of lonely journeys and connections between worlds in Death Stranding, but create entirely original person, outfit, equipment and location, no existing characters, actor likenesses, logos, official artwork, baby pods, words, watermarks or card frame. Clear central silhouette readable at thumbnail scale. Premium serious atmospheric art."
+    },
+    {
+      "id": "porter-002",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Rain Cartographer: an original female expedition cartographer in charcoal rain gear, face partly obscured by hood, studying a small cyan topographic projection on a wrist instrument at the edge of a wet ruined highway, black cliffs, rain and distant relay masts."
+    },
+    {
+      "id": "equipment-001",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Echo Sensor: a compact original futuristic handheld scanning device made of worn black titanium with three concentric cyan light rings, resting on rain-soaked volcanic stone, faint spectral interference in the mist behind it. Product-like close composition, serious functional industrial design."
+    },
+    {
+      "id": "equipment-002",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Chiral Cargo: a rugged sealed industrial cargo case on black volcanic sand, its narrow observation window revealing suspended golden crystalline fragments and thin luminous connections, cold cyan coastal fog and distant ruined concrete in background. Centered single object, original functional sci-fi design."
+    },
+    {
+      "id": "structure-001",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Silent Station: an abandoned brutalist delivery relay station embedded in a black cliff above a bleak ocean, tall asymmetric antenna, one warm doorway beacon and thin cyan utility lights, wet concrete, fine rain and mist. Wide cinematic establishing shot."
+    },
+    {
+      "id": "event-001",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Timefall: uncanny heavy rain aging an abandoned concrete viaduct and rusted relay structures in a volcanic valley, fine cyan luminous rain streaks, shattered time-like reflections in puddles, distant mountains hidden by charcoal storm clouds. No people, a global environmental calamity."
+    },
+    {
+      "id": "entity-001",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Threshold Shade: a single original elongated spectral humanoid silhouette hovering slightly above a black-sand beach, its body made of oily vapor and dark translucent strands, silver-blue rim light, a dark ocean and a huge bank of fog behind it. Unsettling and restrained, not gory, central silhouette."
+    },
+    {
+      "id": "entity-002",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Submerged Voices: ghostly pale human-like silhouettes barely visible below a dark ocean surface, faint cyan ripples and thin luminous strands connecting to a black volcanic shoreline, silver-gray fog. Original supernatural haunting landscape, no gore."
+    },
+    {
+      "id": "event-002",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: Forest Fire: a devastated rain-soaked forest at twilight with smoldering tree trunks, glowing amber embers and restrained low flames reflected in black puddles, an abandoned futuristic utility pylon among the trees, cold cyan smoke. Environmental event, no people or animals."
+    },
+    {
+      "id": "event-003",
+      "prompt": "Use case: stylized-concept. Asset type: original TCG card illustration, landscape 3:2 full bleed. Style: premium serious cinematic realistic digital matte painting, tactile materials, charcoal and muted cyan palette with restrained warm highlights, post-apocalyptic loneliness, subtle rain, fog and connections between worlds. Atmosphere inspired by Death Stranding, but entirely original designs; no existing characters, actor likenesses, official artwork, logos, words, watermarks, card frames or baby pods. Clear main subject readable at thumbnail scale. Subject: BT Territory: an abandoned futuristic transit clearing on a black volcanic plain, tall pale spectral silhouettes suspended in low fog, oily strands reaching skyward, broken relay posts and wet black ground, cyan atmospheric interference. Supernatural danger zone, original designs, no gore."
+    }
+  ]
+}

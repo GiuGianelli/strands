@@ -1,0 +1,39 @@
+STRANDS / CURRENT RULES
+
+1. YOUR DECK
+Build a deck of exactly 60 cards with no more than 4 copies of each card. All 204 catalog cards are available. Save incomplete decks as drafts; only a complete, valid deck can be selected for play. Use “Check your Decks” to create, rename, duplicate, edit, delete and select decks. Changes are saved locally when you click Save Deck. Selecting a deck also saves it.
+
+2. STARTING A MATCH
+Choose “Play Solo vs Bot” to face The Wayfarer. You play first. Each side starts with seven cards, 0 Chiralium and 0 delivery points. Your library uses your selected deck; the bot receives 60 different definitions sampled from the catalog. Both libraries are shuffled. Returning to the menu pauses the match; Resume Match continues it. Starting a new match replaces the current one. Matches are not saved when the application closes.
+
+3. PREPARING THE VOYAGE
+At the start of your turn, your spent Chiralium is restored and your field cards untap. Choose exactly one option:
+• Convert one card from your hand into a permanent Chiralium resource, then draw one card. The new resource is usable immediately.
+• Skip conversion and draw two cards instead.
+You can only make this choice once each turn. Drawing from an empty library simply draws no cards; it does not cause a loss.
+Events can be played during preparation, before or after this choice, by paying their cost. Then choose Start Delivery.
+
+4. DELIVERY
+Play Porters, Entities, Structures and Equipment from your hand by paying their Chiralium cost. A card cannot enter the field if you cannot pay. Cards must wait until your next turn before making a delivery.
+Choose a ready card and click Attempt Delivery. Roll 1d6 and add your equipment bonus. If the total reaches the route difficulty, gain that card's delivery points. Success and failure both tap the card, rotating it 90 degrees and leaving it exposed. A tapped card cannot attempt another delivery until it untaps.
+End Turn passes play to the other side. The displayed turn number increases on every change of side.
+
+5. DIFFICULTY AND EQUIPMENT
+Base route difficulty is 3: without bonuses, a delivery succeeds on 3, 4, 5 or 6 (66.7%). Difficulty-changing events apply to both fields and stack, with a minimum of 2 and a maximum of 6. Temporary modifiers expire at the start of the next side's turn.
+Equipment bonuses apply immediately while the equipment is on your field, only to your own rolls. Bonuses stack up to +3. Equipment does not need to attach or tap. When it leaves the field, its bonus is removed. Equipment with zero delivery points cannot deliver.
+
+6. EVENTS, DAMAGE AND THE BEACH
+Events resolve during preparation and enter the discard pile. The current generic catalog uses events that change difficulty. The card editor also supports global damage, delivery penalties and attack penalties.
+Damage equal to or greater than a card's defense sends it to the Beach. Nonlethal damage clears at the next turn. The Beach preserves those cards. Returning a card to your hand and replaying it requires paying its cost again and waiting until your next turn to deliver.
+
+7. THE WAYFARER / LOCAL BOT
+The bot follows the same phase, cost, conversion, readiness and dice rules. It builds resources, chooses affordable cards, values delivery units and useful equipment, plays helpful difficulty-reducing events and attempts ready deliveries. Its decisions use its own hand and public information, never your hidden hand or library order. Actions are shown one at a time. Your match controls are locked during its turn; Return to Menu remains available.
+
+8. CURRENT PROTOTYPE LIMITS
+This is an open-ended delivery practice match. There is no score target or automatic victory condition yet. Compare delivery totals and start a new match whenever you want.
+Combat, multiplayer and equipment attachments are not implemented. Attack and defense are displayed, but there is no attack action yet. Tapped cards are marked as exposed in preparation for future combat.
+“Playground: send to Beach” and “Playground: return to hand” are manual testing tools, not free card abilities. Shuffle is also a playground control. The bot does not use these testing tools.
+
+9. CONTROLS AND SAVING
+Hover over hand cards to raise them; click to inspect and choose an action. Large zones have page controls. Press Escape or Return to Menu to pause a match. In the menu, use the mouse or Up/Down and Enter. Motion: reduced disables the decorative strand animation, rain and card movement.
+Decks persist in local application storage (PlayerPrefs); Web builds use browser storage. Decks are specific to this device and browser profile. Clearing application/browser data removes them. There is no account or cloud sync.

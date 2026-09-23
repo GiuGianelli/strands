@@ -1,0 +1,114 @@
+{
+  "source": "https://lorcanajson.org/files/current/en/sets/setdata.1.json",
+  "datasetGeneratedOn": "2026-09-04T17:01:12",
+  "sourceSha256": "40b52a70e0f9b1284ffa96046099cd0348113d9086a2e4ea5c1856b105470b89",
+  "scope": "Base cards 1–204 only; exclude Enchanted, promos, oversized and foil duplicate printings.",
+  "total": 204,
+  "excludedVariants": 40,
+  "meanCost": 3.6813725490196076,
+  "medianCost": 3,
+  "inkable": 151,
+  "nonInkable": 53,
+  "curve": [
+    {
+      "cost": 0,
+      "count": 0,
+      "percentage": 0,
+      "characters": 0,
+      "actions": 0,
+      "items": 0,
+      "inkable": 0,
+      "deck60": 0
+    },
+    {
+      "cost": 1,
+      "count": 30,
+      "percentage": 14.705882352941178,
+      "characters": 15,
+      "actions": 11,
+      "items": 4,
+      "inkable": 26,
+      "deck60": 9
+    },
+    {
+      "cost": 2,
+      "count": 37,
+      "percentage": 18.137254901960784,
+      "characters": 21,
+      "actions": 8,
+      "items": 8,
+      "inkable": 31,
+      "deck60": 11
+    },
+    {
+      "cost": 3,
+      "count": 38,
+      "percentage": 18.627450980392158,
+      "characters": 25,
+      "actions": 8,
+      "items": 5,
+      "inkable": 27,
+      "deck60": 11
+    },
+    {
+      "cost": 4,
+      "count": 31,
+      "percentage": 15.196078431372548,
+      "characters": 26,
+      "actions": 2,
+      "items": 3,
+      "inkable": 24,
+      "deck60": 9
+    },
+    {
+      "cost": 5,
+      "count": 29,
+      "percentage": 14.215686274509803,
+      "characters": 24,
+      "actions": 5,
+      "items": 0,
+      "inkable": 19,
+      "deck60": 9
+    },
+    {
+      "cost": 6,
+      "count": 19,
+      "percentage": 9.313725490196079,
+      "characters": 19,
+      "actions": 0,
+      "items": 0,
+      "inkable": 14,
+      "deck60": 6
+    },
+    {
+      "cost": 7,
+      "count": 11,
+      "percentage": 5.392156862745098,
+      "characters": 10,
+      "actions": 1,
+      "items": 0,
+      "inkable": 5,
+      "deck60": 3
+    },
+    {
+      "cost": 8,
+      "count": 8,
+      "percentage": 3.9215686274509802,
+      "characters": 8,
+      "actions": 0,
+      "items": 0,
+      "inkable": 4,
+      "deck60": 2
+    },
+    {
+      "cost": 9,
+      "count": 1,
+      "percentage": 0.49019607843137253,
+      "characters": 1,
+      "actions": 0,
+      "items": 0,
+      "inkable": 1,
+      "deck60": 0
+    }
+  ]
+}

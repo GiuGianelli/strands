@@ -1,0 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+Builds/
+.vs/
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.user
+TestResults/
+Docs/Local/
