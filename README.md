@@ -8,9 +8,8 @@ Strands is my tribute to a game that means a lot to me. A game about bonds, conn
 
 The idea is to take all of that and turn it into a TCG: experimenting with mechanics, figuring out balance, designing cards, and slowly learning what it actually takes to build a card game from the ground up.
 
-<p align="center">
-  <img src="Docs/Local/Screenshot_2.png" alt="STRANDS cover" width="700" />
-</p>
+<img width="1135" height="625" alt="image" src="https://github.com/user-attachments/assets/3c6a6e39-123d-41b0-8c20-5f49627c1358" />
+
 
 A local prototype built with **C# + Unity 6.3 LTS**, prepared for Web export.
 No external libraries, official assets, game accounts or backend are used.
@@ -57,9 +56,7 @@ wide spacing and animated trailing strands inspired by the supplied references.
 
 ## Turn sequence
 
-<p align="center">
-  <img src="Docs/Local/Screenshot_2_1.png" alt="STRANDS turn sequence" width="700" />
-</p>
+<img width="1171" height="656" alt="image" src="https://github.com/user-attachments/assets/3721e842-f303-4e13-b3db-f0d8cac7adbf" />
 
 ### 1. Preparing the voyage
 
